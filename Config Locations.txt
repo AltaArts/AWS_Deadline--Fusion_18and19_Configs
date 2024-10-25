@@ -1,0 +1,6 @@
+We don’t officially support Fusion 19, but I’ve attached a patched copy of SubmitToDeadlineMonitor.lua and the plugin .param files that you can test. Backup and replace the following:
+
+\DeadlineRepository10\submission\Fusion\Main\SubmitToDeadlineMonitor.lua
+\DeadlineRepository10\plugins\Fusion\Fusion.param
+\DeadlineRepository10\plugins\FusionCmd\FusionCmd.param
+\DeadlineRepository10\scripts\Submission\FusionSubmission.py
